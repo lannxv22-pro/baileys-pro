@@ -1,7 +1,7 @@
 {
-    "name": "@hamxyztmvn/baileys-pro",
+    "name": "@lannxv22-pro/baileys-pro",
     "version": "2.0.3",
-    "description": "WhatsApp API Modification By hamxyz",
+    "description": "WhatsApp API Modification",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -12,9 +12,9 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://github.com/hamxyztmvn/bails",
+    "homepage": "https://github.com/lannxv22-pro/bails",
     "repository": {
-        "url": "https://github.com/hamxyztmvn/bails"
+        "url": "https://github.com/lannxv22-pro/bails"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
